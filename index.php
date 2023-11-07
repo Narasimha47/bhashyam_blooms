@@ -4,26 +4,26 @@
             <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="w-100" src="img/carousel-1.jpg" alt="Image">
-                        <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <img class="w-100" src="img/nav_image.png" alt="Image">
+                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
                                 <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
                                 <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="carousel-item">
-                        <img class="w-100" src="img/carousel-2.jpg" alt="Image">
-                        <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <img class="w-100" src="img/nav_image.png" alt="Image">
+                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
                                 <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
                                 <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
@@ -206,26 +206,26 @@
                     <div class="col-lg-8 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="room-item">
                             <div class="position-relative">
-                                <div class="section_3_textbox_2">
+                                <div class="section_3_textbox_3">
                                     <p>
                                         <h3>
-                                            Academic Excellence
+                                            Co-curricular Activities
                                         </h3>
                                         <h6>
-                                            Students can gain the knowledge,skills,qualifications and results to make their choices become reality.
+                                            Clubs, projects and teams help to foster character,creativity and determination amongst students of all ages.
                                         </h6>
                                         <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
-                                        <span class="">Be Your Best</span>
+                                        <span class="">Join In</span>
                                     </p>
                                 </div>
-                                <img class="img-fluid section_3_img" src="img/woman_running_sports_circuit_1.png" alt="">
+                                <img class="img-fluid section_3_img_1" src="img/woman_running_sports_circuit_1.png" alt="">
                                 
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="room-item rounded overflow-hidden">
-                            <img class="img-fluid" src="img/section_3_1.png" alt="">
+                            <img class="img-fluid" src="img/picture-adorable-dark-skinned-little-gymnast-competing-parallel-bars 1.png" alt="">
                         </div>
                     </div>
                     
@@ -238,16 +238,16 @@
                         <div class="room-item">
                             <div class="position-relative">
                                 <img class="img-fluid section_3_img" src="img/front_view_kids_cheating_school_1.png" alt="">
-                                <div class="section_3_textbox">
+                                <div class="section_3_textbox_1">
                                     <p>
                                         <h3>
-                                            Academic Excellence
+                                            Pastoral Support
                                         </h3>
                                         <h6>
-                                            Students can gain the knowledge,skills,qualifications and results to make their choices become reality.
+                                            Advice, guidance and practical help o create positive outcomesand healthy minds.
                                         </h6>
                                         <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
-                                        <span class="">Be Your Best</span>
+                                        <span class="">Feel Cared For</span>
                                     </p>
                                 </div>
                             </div>
@@ -256,133 +256,78 @@
                 </div>
             </div>
         </div>
-        <!-- Room End -->
 
-
-        <!-- Video Start -->
-        <div class="container-xxl py-5 px-0 wow zoomIn" data-wow-delay="0.1s">
-            <div class="row g-0">
-                <div class="col-md-6 bg-dark d-flex align-items-center">
-                    <div class="p-5">
-                        <h6 class="section-title text-start text-white text-uppercase mb-3">Luxury Living</h6>
-                        <h1 class="text-white mb-4">Discover A Brand Luxurious Hotel</h1>
-                        <p class="text-white mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                        <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Our Rooms</a>
-                        <a href="" class="btn btn-light py-md-3 px-md-5">Book A Room</a>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="video">
-                        <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
-                            <span></span>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content rounded-0">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Youtube Video</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <!-- 16:9 aspect ratio -->
-                        <div class="ratio ratio-16x9">
-                            <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always"
-                                allow="autoplay"></iframe>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Video Start -->
 
 
         <!-- Service Start -->
-        <div class="container-xxl py-5">
-            <div class="container">
-                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                    <h6 class="section-title text-center text-primary text-uppercase">Our Services</h6>
-                    <h1 class="mb-5">Explore Our <span class="text-primary text-uppercase">Services</span></h1>
+        <div class="container-xxl py-5 section_4">
+            <div class="row g4">
+                <div class="col-lg-4 col-md-6" style="background:
+                      linear-gradient(
+                        rgba(0, 0, 0, 0.5),
+                        rgba(0, 0, 0, 0.5)
+                      ),url('img/section_4_1.png');height: 100vh">
+                    <div class="sec_4_div">
+                        <img class="img-fluid" src="img/sec4graduate1.png" alt="">
+                        <br>
+                        <h4>Acedemics</h4>
+                        <br>
+                        <p>
+                            Students can gain the knowledge, skills,qualificationsand results to make their choicesbecome reality.
+                        </p>
+                        <br>
+                        <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                        <span class="">Visit Page</span>
+                    </div>
                 </div>
-                <div class="row g-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <a class="service-item rounded" href="">
-                            <div class="service-icon bg-transparent border rounded p-1">
-                                <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                    <i class="fa fa-hotel fa-2x text-primary"></i>
-                                </div>
-                            </div>
-                            <h5 class="mb-3">Rooms & Appartment</h5>
-                            <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        </a>
+                <div class="col-lg-4 col-md-6" style="background:
+                      linear-gradient(
+                        rgba(0, 0, 0, 0.5),
+                        rgba(0, 0, 0, 0.5)
+                      ),url('img/section_4_2.png');height: 100vh;">
+                    <div class="sec_4_div">
+                        <img class="img-fluid" src="img/sec4_results.png" alt="">
+                        <br>
+                        <h4>Our Results</h4>
+                        <br>
+                        <p>
+                            Students can gain the knowledge, skills,qualificationsand results to make their choicesbecome reality.
+                        </p>
+                        <br>
+                        <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                        <span class="">Visit Page</span>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <a class="service-item rounded" href="">
-                            <div class="service-icon bg-transparent border rounded p-1">
-                                <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                    <i class="fa fa-utensils fa-2x text-primary"></i>
-                                </div>
-                            </div>
-                            <h5 class="mb-3">Food & Restaurant</h5>
-                            <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        </a>
+                      
+                    
+                </div>
+                <div class="col-lg-4 col-md-6" style="background:
+                      linear-gradient(
+                        rgba(0, 0, 0, 0.5),
+                        rgba(0, 0, 0, 0.5)
+                      ),url('img/section_4_3.png');height: 100vh">
+                    <div class="sec_4_div">
+                        <img class="img-fluid" src="img/sec4_awards.png" alt="">
+                        <br>
+                        <h4>Acedemics</h4>
+                        <br>
+                        <p>
+                            Students can gain the knowledge, skills,qualificationsand results to make their choicesbecome reality.
+                        </p>
+                        <br>
+                        <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                        <span class="">Visit Page</span>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <a class="service-item rounded" href="">
-                            <div class="service-icon bg-transparent border rounded p-1">
-                                <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                    <i class="fa fa-spa fa-2x text-primary"></i>
-                                </div>
-                            </div>
-                            <h5 class="mb-3">Spa & Fitness</h5>
-                            <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
-                        <a class="service-item rounded" href="">
-                            <div class="service-icon bg-transparent border rounded p-1">
-                                <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                    <i class="fa fa-swimmer fa-2x text-primary"></i>
-                                </div>
-                            </div>
-                            <h5 class="mb-3">Sports & Gaming</h5>
-                            <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <a class="service-item rounded" href="">
-                            <div class="service-icon bg-transparent border rounded p-1">
-                                <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                    <i class="fa fa-glass-cheers fa-2x text-primary"></i>
-                                </div>
-                            </div>
-                            <h5 class="mb-3">Event & Party</h5>
-                            <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-                        <a class="service-item rounded" href="">
-                            <div class="service-icon bg-transparent border rounded p-1">
-                                <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                                    <i class="fa fa-dumbbell fa-2x text-primary"></i>
-                                </div>
-                            </div>
-                            <h5 class="mb-3">GYM & Yoga</h5>
-                            <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                        </a>
-                    </div>
+                      
+                    
                 </div>
             </div>
+            
         </div>
         <!-- Service End -->
 
 
         <!-- Testimonial Start -->
-        <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" data-wow-delay="0.1s">
+        <!-- <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" data-wow-delay="0.1s">
             <div class="container">
                 <div class="owl-carousel testimonial-carousel py-5">
                     <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
@@ -420,12 +365,12 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Testimonial End -->
 
 
         <!-- Team Start -->
-        <div class="container-xxl py-5">
+        <!-- <div class="container-xxl py-5">
             <div class="container">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="section-title text-center text-primary text-uppercase">Our Team</h6>
@@ -498,12 +443,12 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Team End -->
 
 
         <!-- Newsletter Start -->
-        <div class="container newsletter mt-5 wow fadeIn" data-wow-delay="0.1s">
+       <!--  <div class="container newsletter mt-5 wow fadeIn" data-wow-delay="0.1s">
             <div class="row justify-content-center">
                 <div class="col-lg-10 border rounded p-1">
                     <div class="border rounded text-center p-1">
@@ -517,6 +462,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Newsletter Start -->
         <?php include_once 'includes/footer.php'; ?>

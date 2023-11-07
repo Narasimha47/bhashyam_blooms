@@ -103,7 +103,7 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                                             </div>
                                             <div class="col-12 col-sm-12 col-md-4 py-4">
                                               <div class="list-group">
-                                                <a href="#" class="nav-link megamenu-submenu">About Blooms</a>
+                                                <a href="about.php" class="nav-link megamenu-submenu">About Blooms</a>
                                                 <a href="#" class="nav-link megamenu-submenu">Vision & Mission</a>
                                                 <a href="#" class="nav-link megamenu-submenu">Our Leadership</a>
                                                 <a href="#" class="nav-link megamenu-submenu">Awards & Recognitions</a>
