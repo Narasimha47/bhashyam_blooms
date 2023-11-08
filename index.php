@@ -14,17 +14,17 @@
                             </div>
                         </div> -->
                     </div>
-                    <div class="carousel-item">
+                    <!-- <div class="carousel-item">
                         <img class="w-100" src="img/nav_image.png" alt="Image">
-                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
                                 <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
                                 <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
                             </div>
-                        </div> -->
-                    </div>
+                        </div>
+                    </div> -->
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
                     data-bs-slide="prev">
@@ -260,7 +260,7 @@
 
 
         <!-- Service Start -->
-        <div class="container-xxl py-5 section_4">
+        <div class="container-xxl section_4">
             <div class="row g4">
                 <div class="col-lg-4 col-md-6" style="background:
                       linear-gradient(
@@ -327,45 +327,66 @@
 
 
         <!-- Testimonial Start -->
-        <!-- <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" data-wow-delay="0.1s">
-            <div class="container">
-                <div class="owl-carousel testimonial-carousel py-5">
-                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
-                        <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 45px; height: 45px;">
-                            <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
-                                <small>Profession</small>
-                            </div>
-                        </div>
-                        <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
-                    </div>
-                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
-                        <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg" style="width: 45px; height: 45px;">
-                            <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
-                                <small>Profession</small>
-                            </div>
-                        </div>
-                        <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
-                    </div>
-                    <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
-                        <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg" style="width: 45px; height: 45px;">
-                            <div class="ps-3">
-                                <h6 class="fw-bold mb-1">Client Name</h6>
-                                <small>Profession</small>
-                            </div>
-                        </div>
-                        <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
-                    </div>
+        <div class="container-xxl testimonial wow zoomIn" data-wow-delay="0.1s">
+                <p>
+                    FEATURED STORIES
+                    <br>
+                    WHAT'S HAPPENING AT BHASHYAM BLOOMS
+                </p>
+                <div class="row g4">
+                <div class="col-lg-4 col-md-6" style="background:
+                      linear-gradient(
+                        rgba(0, 0, 0, 0.5),
+                        rgba(0, 0, 0, 0.5)
+                      ),url('img/sec_5_1.png');height: 100vh;">
+                     <div class="sub5">
+                         <p>
+                            <h3>
+                                International Space<br>Exploration Challenge
+                            </h3>
+                            <h6>
+                                Advice, guidance and practical help o create positive outcomesand healthy minds.
+                            </h6>
+                            <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                            <span class="">Watch</span>
+                        </p>
+                     </div>
+                </div>
+                <div class="col-lg-4 col-md-6" style="background:
+                      url('img/sec_5_2.png');height: 100vh;">
+                    <div class="sub5">
+                         <p>
+                            <h3>
+                                San juan capistrano<br>hockey team
+                            </h3>
+                            <h6>
+                                Bhashyam Schools is one of an elite group of schools which offers an ice hockey program.
+                            </h6>
+                            <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                            <span class="">Watch</span>
+                        </p>
+                     </div>
+                </div>
+                <div class="col-lg-4 col-md-6" style="background:
+                      linear-gradient(
+                        rgba(0, 0, 0, 0.5),
+                        rgba(0, 0, 0, 0.5)
+                      ),url('img/sec_5_3.png');height: 100vh">
+                    <div class="sub5">
+                         <p>
+                            <h3>
+                                International Space<br>Exploration Challenge
+                            </h3>
+                            <h6>
+                                Advice, guidance and practical help o create positive outcomesand healthy minds.
+                            </h6>
+                            <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                            <span class="">Watch</span>
+                        </p>
+                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <!-- Testimonial End -->
 
 
