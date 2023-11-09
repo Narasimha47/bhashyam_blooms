@@ -622,6 +622,11 @@
     color: var(--secondary) !important;
 }
 
+.bc {
+    margin-top: 10px;
+    margin-left: 10%;
+    font-size: 18px;
+}
 
 /**  About **/
 
@@ -642,6 +647,14 @@
 
 .about-primary {
     color : #1AA551;
+}
+
+/** Leadership **/
+.leadership_section {
+    background-image: url("../img/bg_pattern.png");
+    /*background-repeat: no-repeat;*/
+    background-position-y: 300px;
+    background-position-x: right;
 }
 
 /*** Footer ***/

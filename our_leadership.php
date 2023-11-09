@@ -1,5 +1,11 @@
+
 <?php include_once 'includes/header.php'; ?>
 
+<style type="text/css">
+    body{
+        background-color: #fff;
+    }
+</style>
         <!-- Page Header Start -->
      <!--    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-1.jpg);height:70vh">
             <div class="bg_red">
@@ -12,15 +18,20 @@
             </div>
         </div> -->
         <!-- Page Header End -->
-
+<nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb" class="bc">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Our Leadership</li>
+  </ol>
+</nav>
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5 about_section">
+        <div class="container-xxl py-5 leadership_section">
             <div class="container">
                 <div class="row g-2 align-items-center">
                     <div class="col-lg-6">
-                        <h1 class="mb-4"><span class="about-primary text-uppercase">Strength</span></h1>
+                        <h1 class="mb-4">Welcome From Our Chairman</h1>
                         <h5 class="mb-4">To get the very best from our young people we aim at</h5>
                         
                         <ul class="">
