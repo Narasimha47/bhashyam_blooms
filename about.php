@@ -1,7 +1,7 @@
 <?php include_once 'includes/header.php'; ?>
 
         <!-- Page Header Start -->
-        <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-1.jpg);height:70vh">
+        <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/about_page.png);height:70vh">
             <div class="bg_red">
                 <h3>
                     BHASHYAM BLOOMS MAHESWARAM
