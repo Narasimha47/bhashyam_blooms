@@ -131,9 +131,9 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                                             </div>
                                             <div class="col-12 col-sm-12 col-md-4 py-4">
                                               <div class="list-group">
-                                                <a href="#" class="nav-link megamenu-submenu">CBSE</a>
-                                                <a href="#" class="nav-link megamenu-submenu">State</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Olympiad</a>
+                                                <a href="cbse.php" class="nav-link megamenu-submenu">CBSE</a>
+                                                <a href="state.php" class="nav-link megamenu-submenu">State</a>
+                                                <a href="olympiad.php" class="nav-link megamenu-submenu">Olympiad</a>
                                                 <a href="#" class="nav-link megamenu-submenu">Student Friendly</a>
                                               </div>
                                             </div>

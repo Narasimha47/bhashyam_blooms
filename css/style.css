@@ -691,11 +691,88 @@
 
 /** Leadership **/
 .leadership_section {
-    background-image: url("../img/bg_pattern.png");
-    /*background-repeat: no-repeat;*/
-    background-position-y: 300px;
-    background-position-x: right;
+    background-image: url("../img/vission_bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 138%;
 }
+
+.l_header {
+    font-size: 35px;
+    color: #ED1C24;
+}
+
+.leader_para {
+    font-size: 24px;
+    color: #333D4B;
+    font-weight: 500;
+}
+
+.leadership_bg {
+    position: relative;
+    background-color: #fb0202;
+    top: 66%;
+    width: 100%;
+    height: 45%;
+    /*margin-left: 2%;*/
+    padding: 5%;
+}
+
+.leadership_bg p {
+    color:#FFFFFF;
+    font-size: 25px;
+}
+
+/*Academic Life*/
+
+.academic_life {
+    background-color: #FFFFFF;
+}
+
+.academic_life span {
+    color: #fb0202;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.academic_life p {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.academic_life_1 {
+    background-color: #000C1E;
+}
+
+.academic_life_1 h1 {
+    color: #FFCE49;
+    
+}
+
+.academic_life_1 p {
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.academic_life_2 {
+    background-color: #FFFFFF;
+}
+
+
+.academic_life_2 span {
+    color: #1AA551;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.academic_life_2 p {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+}
+
 
 /*** Footer ***/
 .newsletter {

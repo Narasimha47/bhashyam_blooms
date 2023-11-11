@@ -14,6 +14,7 @@
                 <div class="room-item">
                     <div class="position-relative">
                         <img class="img-fluid section_3_img" src="img/v1.png" alt="">
+                        
                         <div class="vission_textbox_1">
                             <p>
                                 The School will nurture the students in desired values and culture as is expected of a good society.

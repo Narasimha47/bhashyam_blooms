@@ -16,39 +16,21 @@
 
         <!-- About Start -->
         <div class="container-xxl py-5 leadership_section">
-            <div class="container">
                 <div class="row g-2 align-items-center">
                     <div class="col-lg-6">
-                        <h1 class="mb-4">Welcome From Our Chairman</h1>
-                        <h5 class="mb-4">To get the very best from our young people we aim at</h5>
-                        
-                        <ul class="">
-                            <li>
-                                Planning and managing resources with optimum utility.
-                            </li>
-                            <li>
-                                Knowledge of the latest educational changes and implementation of the same.
-                            </li>
-                            <li>
-                                Understanding issues and dealing with students and parents.
-                            </li>
-                            <li>
-                                Highly Skilled Teachers
-                            </li>
-                            <li>
-                                Rigorous curriculum.
-                            </li>
-                        </ul>
+                        <p class="l_header">Welcome From Our Chairman</p>
+                        <p class="leader_para">
+                            We are advocating a teaching system that analyses history and culture for the progress. "If a skill keeps being overlooked by the education system, there won't be any innovation or flow of ideas coming from the sparking minds and nothing will evolve.Herewith I run the Institution where my teachers are keen-in not what the children are being taught but how they are being taught.We are empowered by the great faith of parents that their wards certainly become the icons of different aspects of life."
+                        </p>
                     </div>
-                    <div class="col-lg-6">
-                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.3s" src="img/front_view_kids_cheating_school_1.png">
-                    </div>
-                    <div class="col-lg-12">
-                        <h5 class="mb-4">These strengths will be optimally utilized for the istitutional beliefs and vision . Research bent of mind will be an additional qualification to mobilize rational and inquisitive answers to the contradictions and decisions.</h5>
+                    <div class="col-lg-6 lbackground">
+                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.3s" src="img/leadership.png">
+                        <div class="leadership_bg">
+                            <p>BHASHYAM BLOOMS MAHESWARAM<br>
+                            Offers Education from Vth to X, Nursery to VIII standard and follows the CBSE pattern of education. It provides a learning environment comprises the physical, social, and pedagogical context in which learning occurs.</p>
+                        </div>
                     </div>
                 </div>
-                
-            </div>
         </div>
         <!-- About End -->
 
