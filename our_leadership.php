@@ -6,19 +6,7 @@
         background-color: #fff;
     }
 </style>
-        <!-- Page Header Start -->
-     <!--    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/carousel-1.jpg);height:70vh">
-            <div class="bg_red">
-                <h3>
-                    BHASHYAM BLOOMS MAHESWARAM
-                </h3>
-                <h6>
-                    Offers Education from Vth to X, Nursery to VIII standard and follows the CBSE pattern of education. It provides a learning environment comprises the physical, social, and pedagogical context in which learning occurs.
-                </h6>
-            </div>
-        </div> -->
-        <!-- Page Header End -->
-<nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb" class="bc">
+    <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);padding: 1%;background-color: #fff;color: #070707;font-size: large;" aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page">Our Leadership</li>

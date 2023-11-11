@@ -633,20 +633,60 @@
 .bg_red {
     position: relative;
     background-color: #fb0202;
-    top: 70%;
+    top: 66%;
     width: 46%;
-    height: 35%;
+    height: 45%;
     margin-left: 2%;
     padding: 2%;
 }
 
 .about_section {
-    background-image: url("../img/bg_pattern.png");
+    /*background-image: url("../img/bg_pattern.png");*/
     background-color: #eee;
 }
 
 .about-primary {
     color : #1AA551;
+}
+
+/* Vision & Mission*/
+.vission {
+    background-image: url("../img/vission_bg.png");
+    background-repeat: no-repeat;
+}
+
+.vission_textbox_1 {
+    position: absolute;
+    z-index: 999;
+    color: #000;
+    top: 15%;
+    float: right;
+    left: 39%;
+    background-color: #ED1C24;
+    padding: 2%;
+    width: 80%;
+}
+
+.vission_textbox_1 p {
+    font-size: 26px;
+    color: #fff;
+}
+
+.vission_textbox_2 {
+    position: absolute;
+    z-index: 999;
+    color: #000;
+    top: 54%;
+    float: right;
+    left: 39%;
+    background-color: #000C1E;
+    padding: 2%;
+    width: 80%;
+}
+
+.vission_textbox_2 p {
+    font-size: 26px;
+    color: #fff;
 }
 
 /** Leadership **/
@@ -669,7 +709,7 @@
 
 .footer {
     position: relative;
-    margin-top: -50px;
+    margin-top: 2px;
     padding-top: 100px;
 }
 

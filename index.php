@@ -4,7 +4,7 @@
             <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="w-100" src="img/nav_image.png" alt="Image">
+                        <img class="w-100" src="img/c1.jpg" alt="Image">
                         <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
                                 <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
@@ -14,17 +14,39 @@
                             </div>
                         </div> -->
                     </div>
-                    <!-- <div class="carousel-item">
-                        <img class="w-100" src="img/nav_image.png" alt="Image">
-                        <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                    <div class="carousel-item">
+                        <img class="w-100" src="img/c2.jpg" alt="Image">
+                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div class="p-3" style="max-width: 700px;">
                                 <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
                                 <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
                             </div>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
+                    <div class="carousel-item">
+                        <img class="w-100" src="img/c3.jpg" alt="Image">
+                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                            <div class="p-3" style="max-width: 700px;">
+                                <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
+                                <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
+                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
+                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
+                            </div>
+                        </div> -->
+                    </div>
+                    <div class="carousel-item">
+                        <img class="w-100" src="img/c4.jpg" alt="Image">
+                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                            <div class="p-3" style="max-width: 700px;">
+                                <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
+                                <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
+                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
+                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
+                            </div>
+                        </div> -->
+                    </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
                     data-bs-slide="prev">
