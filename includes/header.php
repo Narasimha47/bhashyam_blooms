@@ -77,7 +77,7 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                         <div class="col-lg-7 px-5 text-start">
                             <div class="h-100 d-inline-flex align-items-center py-2 me-4 enquiry">
                                 <i class="fa fa-bookmark me-2"></i>
-                                <p class="mb-0">INQUIRE</p>
+                                <p class="mb-0"><a href="enquiry.php" style="color:#FFFFFF">ENQUIRE</a></p>
                             </div>
                             <div class="h-100 d-inline-flex align-items-center py-2 call">
                                 <i class="fa fa-phone-alt me-2"></i>
@@ -106,7 +106,7 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                                                 <a href="about.php" class="nav-link megamenu-submenu">About Blooms</a>
                                                 <a href="vision_and_mission.php" class="nav-link megamenu-submenu">Vision & Mission</a>
                                                 <a href="our_leadership.php" class="nav-link megamenu-submenu">Our Leadership</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Awards & Recognitions</a>
+                                                <a href="awards_recognition.php" class="nav-link megamenu-submenu">Awards & Recognitions</a>
                                                 <a href="#" class="nav-link megamenu-submenu">Careers</a>
                                               </div>
                                             </div>
@@ -134,7 +134,7 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                                                 <a href="cbse.php" class="nav-link megamenu-submenu">CBSE</a>
                                                 <a href="state.php" class="nav-link megamenu-submenu">State</a>
                                                 <a href="olympiad.php" class="nav-link megamenu-submenu">Olympiad</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Student Friendly</a>
+                                                <a href="student_friendly.php" class="nav-link megamenu-submenu">Student Friendly</a>
                                               </div>
                                             </div>
                                             <div class="col-12 col-sm-4 col-md-4 py-4">

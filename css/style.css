@@ -412,7 +412,19 @@
     color: #FFFFFF !important;
 }
 
+.inquiry_section {
+    background-color: #000C1E;
+    padding: 30px;
+}
 
+.inquiry_section h3 {
+    color:#FFCE49;
+}
+
+.inquiry_section p {
+    color: #FFFFFF;
+    font-size: 20px;
+}
 /*** Youtube Video ***/
 .video {
     position: relative;
@@ -773,6 +785,12 @@
     font-weight: 400;
 }
 
+
+/* Awards */
+
+.awards_recogintion {
+    background-color: #FFFFFF;
+}
 
 /*** Footer ***/
 .newsletter {
