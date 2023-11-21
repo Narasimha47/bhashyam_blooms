@@ -22,7 +22,7 @@
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5">
+        <div class="container-fluid py-0">
             <div class="container">
                 <div class="row g-2">
                     <div class="col-lg-8 inquiry_section">
