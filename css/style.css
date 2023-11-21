@@ -104,7 +104,7 @@
 }
 .nav-item.dropdown.dropdown-mega .dropdown-menu {
     width: 100%;
-    top: auto;
+    top:7vh;
 }
 
 .dropdown-menu{
@@ -156,7 +156,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(15, 23, 43, .7);
+    background: rgba(15, 23, 43, .3);
     z-index: 1;
 }
 
@@ -335,6 +335,8 @@
 }
 
 .sec_4_div {
+    position: relative;
+    top: 25vh;
     margin: 25%;
 }
 
@@ -654,7 +656,7 @@
 
 .about_section {
     /*background-image: url("../img/bg_pattern.png");*/
-    background-color: #eee;
+    background-color: #FFFFFF;
 }
 
 .about-primary {
@@ -874,4 +876,64 @@
     margin-right: 0;
     padding-right: 0;
     border-right: none;
+}
+
+.circle-to-square__container {
+
+  width: 320px;
+  height: 170px;
+  display: flex;
+  /*justify-content: center;*/
+  color:#FFFFFF;
+  &:hover {
+    .circle-to-square {
+        width: 100%;
+        height: 100%;
+        border-radius: 5%;
+        text-align: center;
+        display: flex;
+        /*justify-content: center;*/
+        /*align-items: center;*/
+        transition: 0.5s ease all;
+    }
+
+    .square {
+      display: block;
+    }
+
+    .circle {
+      display: none;
+    }
+    
+    
+  }
+}
+
+
+.circle-to-square {
+    position: relative;
+    top : 95%;
+  width: 170px;
+  border-radius: 50%;
+  background-color: #ED1C24;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s ease all;
+    .square {
+    display: none;
+  }
+}
+
+.circle h5{
+    color:#FFFFFF;
+}
+
+.square a {
+    color:#FFFFFF;
+}
+
+.acimg {
+    height: 78vh;
 }

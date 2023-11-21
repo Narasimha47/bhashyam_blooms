@@ -11,7 +11,7 @@
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5 academic_life">
+        <div class="container-fluid py-0 academic_life">
             <div class="container">
                 <span>COMPUTER LOCK KARO...SAHI JAWAB!</span>
                 <br><br>
@@ -27,7 +27,7 @@ It has endeavoured to set it right with its unique BIIT 5-years integrated coach
         <!-- About End -->
 
                 <!-- About Start -->
-        <div class="container-xxl py-5 academic_life">
+        <div class="container-fluid py-0 academic_life">
             <div class="container">
                 <div class="row g-2 " >
                     <div class="col-lg-6">
@@ -47,7 +47,7 @@ Following the latest trends in technology driven student oriented learning proce
         <!-- About End -->
 
                 <!-- About Start -->
-        <div class="container-xxl py-5 academic_life_1">
+        <div class="container-fluid py-0 academic_life_1">
             <div class="container">
                 <div class="row g-2 " >
                     <div class="col-lg-6">

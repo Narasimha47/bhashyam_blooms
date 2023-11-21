@@ -11,7 +11,7 @@
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5 awards_recogintion">
+        <div class="container-fluid py-0 awards_recogintion">
             <div class="container">
                 <span>AWARDS & RECOGNITIONS</span>
                 <div class="row g-4">

@@ -11,7 +11,7 @@
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5 academic_life">
+        <div class="container-fluid py-0 academic_life">
             <div class="container">
                 <span>Academic Life</span>
                 <br><br>
@@ -23,7 +23,7 @@
         <!-- About End -->
 
                 <!-- About Start -->
-        <div class="container-xxl py-5 academic_life">
+        <div class="container-fluid py-0 academic_life">
             <div class="container">
                 <div class="row g-2 " >
                     <div class="col-lg-6">
@@ -32,7 +32,7 @@
                         </p>
                     </div>
                     <div class="col-lg-6" style="background-image: url(img/academic_bg_1.png);height:80vh">
-                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.3s" src="img/academic.png">
+                        <img class="img-fluid rounded w-100 wow zoomIn acimg" data-wow-delay="0.3s" src="img/academic.png">
                     </div>
                 </div>
                 
@@ -41,7 +41,7 @@
         <!-- About End -->
 
                 <!-- About Start -->
-        <div class="container-xxl py-5 academic_life_1">
+        <div class="container-fluid py-0 academic_life_1">
             <div class="container">
                 <div class="row g-2 " >
                     <div class="col-lg-6">
@@ -76,7 +76,7 @@
 
                 <!-- About Start -->
           <!-- About Start -->
-        <div class="container-xxl py-5 academic_life_2">
+        <div class="container-fluid py-0 academic_life_2">
             <div class="container">
                 <div class="row g-2 " >
                     <div class="col-lg-6">

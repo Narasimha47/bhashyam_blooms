@@ -5,47 +5,95 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="w-100" src="img/c1.jpg" alt="Image">
-                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="carousel-caption d-flex flex-column">
                             <div class="p-3" style="max-width: 700px;">
-                                <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
-                                <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
-                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
+                               <div class="circle-to-square__container">
+                                  <div class="circle-to-square">
+                                     <div class="circle">
+                                         <img src="img/admissions_icon.png" />
+                                         <h5>ADMISSIONS</h5>
+                                         <h5>2023-2024</h5>
+                                     </div>
+                                     <div class="square">
+                                        <p>
+                                            <img src="img/admissions_icon.png" />
+                                            Admissions open for <br> &nbsp;&nbsp;&nbsp;Academic Year 2023-2024
+                                        </p>
+                                        <a href="enquiry.php">How To Apply <img src="img/apply_arrow.png"></a>
+                                     </div>
+                                  </div>
+                                </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                     <div class="carousel-item">
                         <img class="w-100" src="img/c2.jpg" alt="Image">
-                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="carousel-caption d-flex flex-column">
                             <div class="p-3" style="max-width: 700px;">
-                                <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
-                                <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
-                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
+                               <div class="circle-to-square__container">
+                                  <div class="circle-to-square">
+                                     <div class="circle">
+                                         <img src="img/admissions_icon.png" />
+                                         <h5>ADMISSIONS</h5>
+                                         <h5>2023-2024</h5>
+                                     </div>
+                                     <div class="square">
+                                        <p>
+                                            <img src="img/admissions_icon.png" />
+                                            Admissions open for <br> &nbsp;&nbsp;&nbsp;Academic Year 2023-2024
+                                        </p>
+                                        <a href="enquiry.php">How To Apply <img src="img/apply_arrow.png"></a>
+                                     </div>
+                                  </div>
+                                </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                     <div class="carousel-item">
                         <img class="w-100" src="img/c3.jpg" alt="Image">
-                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="carousel-caption d-flex flex-column">
                             <div class="p-3" style="max-width: 700px;">
-                                <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
-                                <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
-                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
+                               <div class="circle-to-square__container">
+                                  <div class="circle-to-square">
+                                     <div class="circle">
+                                         <img src="img/admissions_icon.png" />
+                                         <h5>ADMISSIONS</h5>
+                                         <h5>2023-2024</h5>
+                                     </div>
+                                     <div class="square">
+                                        <p>
+                                            <img src="img/admissions_icon.png" />
+                                            Admissions open for <br> &nbsp;&nbsp;&nbsp;Academic Year 2023-2024
+                                        </p>
+                                        <a href="enquiry.php">How To Apply <img src="img/apply_arrow.png"></a>
+                                     </div>
+                                  </div>
+                                </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                     <div class="carousel-item">
                         <img class="w-100" src="img/c4.jpg" alt="Image">
-                        <!-- <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="carousel-caption d-flex flex-column">
                             <div class="p-3" style="max-width: 700px;">
-                                <h6 class="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
-                                <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious Hotel</h1>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Our Rooms</a>
-                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Book A Room</a>
+                               <div class="circle-to-square__container">
+                                  <div class="circle-to-square">
+                                     <div class="circle">
+                                         <img src="img/admissions_icon.png" />
+                                         <h5>ADMISSIONS</h5>
+                                         <h5>2023-2024</h5>
+                                     </div>
+                                     <div class="square">
+                                        <p>
+                                            <img src="img/admissions_icon.png" />
+                                            Admissions open for <br> &nbsp;&nbsp;&nbsp;Academic Year 2023-2024
+                                        </p>
+                                        <a href="enquiry.php">How To Apply <img src="img/apply_arrow.png"></a>
+                                     </div>
+                                  </div>
+                                </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
@@ -63,7 +111,7 @@
         <!-- Carousel End -->
 
         <!-- About Start -->
-        <div class="container-xxl py-5 section_2">
+        <div class="container-fluid py-5 section_2">
             <div class="container">
                 <div class="row g-5 align-items-center">
                     
@@ -73,11 +121,11 @@
                                 <h2 class="mb-3">Our Students are our entire focus</h2>
                                 <p class="text-body mb-0">Each Child gets a frameworkfor success, a roadmapfor where they want to go and the right support at every stage of their development.</p>
                             </div>
-                            <div class="col-6">
+                            <div class="col-6" style="position: relative;z-index: 9999;left: -25px;top: 10vh;">
                                     <div class="col-12">
                                         <div class="rounded sectton_2_href">
-                                            <a href="">
-                                            <div class="row g-3">
+                                            <a href="cbse.php">
+                                            <div class="row">
                                                 <div class="col-5">
                                                     <img class="img-fluid" data-wow-delay="0.5s" src="img/bb_pattern_1.png">
                                                 </div>
@@ -92,8 +140,10 @@
                                                     
                                                 </div>
                                                 <div class="col-1">
-                                                    <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
-                                                    <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png">
+                                                    
+                                                        <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
+                                                        <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png">
+                                                    
                                                 </div>
                                             </div>
                                             </a>
@@ -103,8 +153,8 @@
                                     <br>
                                     <div class="col-12">
                                         <div class="rounded sectton_2_href">
-                                            <a href="">
-                                            <div class="row g-3">
+                                            <a href="state.php">
+                                            <div class="row">
                                                 <div class="col-5">
                                                     <img class="img-fluid" data-wow-delay="0.5s" src="img/bb_pattern_1.png">
                                                 </div>
@@ -130,8 +180,8 @@
                                     <br>
                                     <div class="col-12">
                                         <div class="rounded sectton_2_href">
-                                            <a href="">
-                                            <div class="row g-3">
+                                            <a href="olympiad.php">
+                                            <div class="row">
                                                 <div class="col-5">
                                                     <img class="img-fluid" data-wow-delay="0.5s" src="img/bb_pattern_1.png">
                                                 </div>
@@ -157,8 +207,8 @@
                                     <br>
                                     <div class="col-12">
                                         <div class="rounded sectton_2_href">
-                                            <a href="">
-                                            <div class="row g-3">
+                                            <a href="student_friendly.php">
+                                            <div class="row">
                                                 <div class="col-5">
                                                     <img class="img-fluid" data-wow-delay="0.5s" src="img/bb_pattern_1.png">
                                                 </div>
@@ -182,7 +232,7 @@
                                         </div>
                                     </div>
                             </div>
-                            <div class="col-5 text-start" style="margin-top:-300px;">
+                            <div class="col-5 text-start" style="position: relative;margin-top: -300px;z-index: 999;top: -14vh;left: 20px;">
                                 <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="img/school_campus.png">
                             </div>
                         </div>
@@ -195,7 +245,7 @@
 
  
         <!-- Room Start -->
-        <div class="container-xxl py-5 section_3">
+        <div class="container-fluid py-5 section_3">
             <div class="container">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-5">Fresh thinking to help everyone learn and grow</h1>
@@ -282,12 +332,12 @@
 
 
         <!-- Service Start -->
-        <div class="container-xxl section_4">
+        <div class="container-fluid section_4">
             <div class="row g4">
                 <div class="col-lg-4 col-md-6" style="background:
                       linear-gradient(
-                        rgba(0, 0, 0, 0.5),
-                        rgba(0, 0, 0, 0.5)
+                        rgba(0, 0, 0, 0.8),
+                        rgba(0, 0, 0, 0.8)
                       ),url('img/section_4_1.png');height: 100vh">
                     <div class="sec_4_div">
                         <img class="img-fluid" src="img/sec4graduate1.png" alt="">
@@ -304,8 +354,8 @@
                 </div>
                 <div class="col-lg-4 col-md-6" style="background:
                       linear-gradient(
-                        rgba(0, 0, 0, 0.5),
-                        rgba(0, 0, 0, 0.5)
+                        rgba(0, 0, 0, 0.8),
+                        rgba(0, 0, 0, 0.8)
                       ),url('img/section_4_2.png');height: 100vh;">
                     <div class="sec_4_div">
                         <img class="img-fluid" src="img/sec4_results.png" alt="">
@@ -324,8 +374,8 @@
                 </div>
                 <div class="col-lg-4 col-md-6" style="background:
                       linear-gradient(
-                        rgba(0, 0, 0, 0.5),
-                        rgba(0, 0, 0, 0.5)
+                        rgba(0, 0, 0, 0.8),
+                        rgba(0, 0, 0, 0.8)
                       ),url('img/section_4_3.png');height: 100vh">
                     <div class="sec_4_div">
                         <img class="img-fluid" src="img/sec4_awards.png" alt="">
@@ -349,7 +399,7 @@
 
 
         <!-- Testimonial Start -->
-        <div class="container-xxl testimonial wow zoomIn" data-wow-delay="0.1s">
+        <div class="container-fluid testimonial wow zoomIn" data-wow-delay="0.1s">
                 <p>
                     FEATURED STORIES
                     <br>

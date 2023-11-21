@@ -15,7 +15,7 @@
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5 leadership_section">
+        <div class="container-fluid py-0 leadership_section">
                 <div class="row g-2 align-items-center">
                     <div class="col-lg-6">
                         <p class="l_header">Welcome From Our Chairman</p>

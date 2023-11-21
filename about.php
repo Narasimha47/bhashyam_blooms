@@ -7,22 +7,22 @@
   </ol>
 </nav>
         <!-- Page Header Start -->
-        <div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/about_page.png);height:70vh">
-            <div class="bg_red">
-                <h3>
-                    BHASHYAM BLOOMS MAHESWARAM
-                </h3>
-                <h6>
-                    Offers Education from Vth to X, Nursery to VIII standard and follows the CBSE pattern of education. It provides a learning environment comprises the physical, social, and pedagogical context in which learning occurs.
-                </h6>
-            </div>
-        </div>
-        <!-- Page Header End -->
+<div class="container-fluid page-header mb-5 p-0" style="background-image: url(img/about_page.png);height:70vh">
+    <div class="bg_red">
+        <h3>
+            BHASHYAM BLOOMS MAHESWARAM
+        </h3>
+        <h6>
+            Offers Education from Vth to X, Nursery to VIII standard and follows the CBSE pattern of education. It provides a learning environment comprises the physical, social, and pedagogical context in which learning occurs.
+        </h6>
+    </div>
+</div>
+<!-- Page Header End -->
 
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5 about_section">
+        <div class="container-fluid py-0 about_section">
             <div class="container">
                 <div class="row g-2 align-items-center" >
                     <div class="col-lg-6">

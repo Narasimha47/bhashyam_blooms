@@ -71,10 +71,10 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                 <div class="col-lg-12">
                     
                     <div class="row gx-0 bg-white d-none d-lg-flex">
-                        <div class="col-lg-5 px-5 text-start">
-                        
-                    </div>
-                        <div class="col-lg-7 px-5 text-start">
+                        <div class="col-lg-8 px-5 text-start">
+                            
+                        </div>
+                        <div class="col-lg-4 px-5 text-start">
                             <div class="h-100 d-inline-flex align-items-center py-2 me-4 enquiry">
                                 <i class="fa fa-bookmark me-2"></i>
                                 <p class="mb-0"><a href="enquiry.php" style="color:#FFFFFF">ENQUIRE</a></p>
@@ -85,8 +85,8 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                             </div>
                         </div>
                     </div>
-                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0">
-                        <a href="index.php" class="rounded-0 py-4 px-md-5 d-lg-block" style="background-color: #ffff;"><img class="" src="img/Logo-blooms.png" alt="Image"></a>
+                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0" style="height: 8vh">
+                        <a href="index.php" class="rounded-0 py-4 px-md-5 d-lg-block" style="background-color: #ffff;z-index: 9999;position: relative;top: -31px;"><img class="" src="img/Logo-blooms.png" alt="Image"></a>
                         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                             <span class="navbar-toggler-icon"></span>
                         </button>
@@ -158,8 +158,8 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                                             </div>
                                             <div class="col-12 col-sm-12 col-md-4 py-4">
                                               <div class="list-group">
-                                                <a href="#" class="nav-link megamenu-submenu">Admission Process</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Application Form</a>
+                                                <a href="enquiry.php" class="nav-link megamenu-submenu">Admission Process</a>
+                                                <a href="enquiry.php" class="nav-link megamenu-submenu">Application Form</a>
                                                 <a href="#" class="nav-link megamenu-submenu">Public Disclosure</a>
                                                 <a href="#" class="nav-link megamenu-submenu">FAQ's</a>
                                               </div>
@@ -185,13 +185,13 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                                             </div>
                                             <div class="col-12 col-sm-12 col-md-4 py-4">
                                               <div class="list-group">
-                                                <a href="#" class="nav-link megamenu-submenu">Computer & ASL Lab</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Sceince Lab</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Math Lab</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Smart Classes</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Library</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Infrastructure & Facilities</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Auditorium</a>
+                                                <a href="computer_lab.php" class="nav-link megamenu-submenu">Computer & ASL Lab</a>
+                                                <a href="science_lab.php" class="nav-link megamenu-submenu">Sceince Lab</a>
+                                                <a href="math_lab.php" class="nav-link megamenu-submenu">Math Lab</a>
+                                                <a href="smart_class.php" class="nav-link megamenu-submenu">Smart Classes</a>
+                                                <a href="library.php" class="nav-link megamenu-submenu">Library</a>
+                                                <a href="infrastructure.php" class="nav-link megamenu-submenu">Infrastructure & Facilities</a>
+                                                <a href="auditorium.php" class="nav-link megamenu-submenu">Auditorium</a>
 
                                               </div>
                                             </div>

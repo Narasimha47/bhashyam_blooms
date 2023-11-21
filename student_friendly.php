@@ -11,7 +11,7 @@
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5 academic_life">
+        <div class="container-fluid py-0 academic_life">
             <div class="container">
                 <span>STUDENT ENRICHMENT PROGRAM</span>
                 <br><br>
@@ -25,7 +25,7 @@ This sort of activities are directed towards the development of the students to 
         <!-- About End -->
 
                 <!-- About Start -->
-        <div class="container-xxl py-5 academic_life">
+        <div class="container-fluid py-0 academic_life">
             <div class="container">
                 <div class="row g-2 " >
                     <div class="col-lg-6">
@@ -36,7 +36,7 @@ These exercises are aimed to develop the students' presentation skills. Such act
                         </p>
                     </div>
                     <div class="col-lg-6" style="background-image: url(img/academic_bg_1.png);height:80vh">
-                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.3s" src="img/academic.png">
+                        <img class="img-fluid rounded w-100 wow zoomIn acimg" data-wow-delay="0.3s" src="img/academic.png">
                     </div>
                 </div>
                 
@@ -45,7 +45,7 @@ These exercises are aimed to develop the students' presentation skills. Such act
         <!-- About End -->
 
                 <!-- About Start -->
-        <div class="container-xxl py-5 academic_life_1">
+        <div class="container-fluid py-0 academic_life_1">
             <div class="container">
                 <div class="row g-2 " >
                     <div class="col-lg-6">
@@ -86,7 +86,7 @@ Periodic parent-teacher meetings are conducted to help parents understand the cu
 
                 <!-- About Start -->
           <!-- About Start -->
-        <div class="container-xxl py-5 academic_life_2">
+        <div class="container-fluid py-0 academic_life_2">
             <div class="container">
                 <div class="row g-2 " >
                     <div class="col-lg-6">

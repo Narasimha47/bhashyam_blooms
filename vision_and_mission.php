@@ -9,7 +9,7 @@
         
 
         <!-- About Start -->
-        <div class="container-xxl py-5 vission">
+        <div class="container-fluid py-0 vission">
             <div class="col-lg-10 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="room-item">
                     <div class="position-relative">
