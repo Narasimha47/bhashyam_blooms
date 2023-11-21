@@ -323,6 +323,7 @@
 
 .section_3_img_1 {
     float: right;
+    width:1%;
 }
 
 
@@ -552,7 +553,7 @@
     background-repeat: no-repeat;
     background-size: cover;*/
 
-    background-color: #FFC21C;
+    background-color: #000;
     width: 100%;
     height: 100%vh;
 }
@@ -567,7 +568,7 @@
 .testimonial .sub5 {
     position: relative;
     top: 45%;
-    left: 2%;
+    /*left: 2%;*/
     background-color: #1AA551;
     padding: 7%;
 }
@@ -879,7 +880,9 @@
 }
 
 .circle-to-square__container {
-
+    position: relative;
+    top: -25vh;
+    left: 11%;
   width: 320px;
   height: 170px;
   display: flex;
@@ -936,4 +939,76 @@
 
 .acimg {
     height: 78vh;
+}
+
+
+.carousel-item.active {
+    display: block;
+    height: 85vh;
+}
+
+
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Cabin';
+}
+
+.header_sec_text {
+    text-align: left;
+    font-size: 40px;
+}
+
+.header_sec_text1 {
+    text-align: left;
+    font-size: 35px;
+}
+
+.sec_2_link {
+    padding:6px;
+}
+
+.sec_2_arr {
+    background-image: url("../img/arrow_circle_right.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+
+.sectton_2_href:hover .sec_2_arr {
+    background-image: url("../img/arrow_circle_clicked.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+
+.owl-item.active {
+    opacity: 0.5;
+}
+.owl-item.center {
+    opacity: 1;
+}
+
+}
+.owl-item > div:after {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+
+.owl-carousel .owl-item .section_3_img_1 {
+    float: right;
+    width:1%;
+}
+
+.fa-greater-than {
+    color:#FFFFFF;
+    font-size: 25px;
+}
+
+.testimonial1 {
+    background-color: #FFC21C;
+}
+
+.testimonial1 p {
+    color: #000C1E;
+    font-size: 50px;
+    font-weight: 800;
 }

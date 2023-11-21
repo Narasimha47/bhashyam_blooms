@@ -4,10 +4,34 @@
             <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="w-100" src="img/c1.jpg" alt="Image">
+                        <img class="w-100 car-img" src="img/c1.jpeg" alt="Image">
+                        <!-- <div class="carousel-caption d-flex flex-column">
+                            <div class="p-2" style="max-width: 700px;">
+                                <h2>A School that thinks and acts differently</h2>
+                                <h5>Bhashyam Blooms firmly believes that quality education leads to healthy society</h5>
+                               <div class="circle-to-square__container">
+                                  <div class="circle-to-square">
+                                     <div class="circle">
+                                         <img src="img/admissions_icon.png" />
+                                         <h5>ADMISSIONS</h5>
+                                         <h5>2023-2024</h5>
+                                     </div>
+                                     <div class="square">
+                                        <p>
+                                            <img src="img/admissions_icon.png" />
+                                            Admissions open for <br> &nbsp;&nbsp;&nbsp;Academic Year 2023-2024
+                                        </p>
+                                        <a href="enquiry.php">How To Apply <img src="img/apply_arrow.png"></a>
+                                     </div>
+                                  </div>
+                                </div>
+                            </div>
+                        </div> -->
                         <div class="carousel-caption d-flex flex-column">
                             <div class="p-3" style="max-width: 700px;">
-                               <div class="circle-to-square__container">
+                                <h1 class="text-white animated slideInDown header_sec_text">A School that thinks and acts differently</h1>
+                                <h5 class="text-white animated slideInDown header_sec_text1">Bhashyam Blooms firmly believes that quality education leads to healthy society</h5>
+                                <div class="circle-to-square__container">
                                   <div class="circle-to-square">
                                      <div class="circle">
                                          <img src="img/admissions_icon.png" />
@@ -27,10 +51,12 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="w-100" src="img/c2.jpg" alt="Image">
+                        <img class="w-100 car-img" src="img/c2.jpeg" alt="Image" >
                         <div class="carousel-caption d-flex flex-column">
                             <div class="p-3" style="max-width: 700px;">
-                               <div class="circle-to-square__container">
+                                <h1 class="text-white animated slideInDown header_sec_text">A School that thinks and acts differently</h1>
+                                <h5 class="text-white animated slideInDown header_sec_text1">Bhashyam Blooms firmly believes that quality education leads to healthy society</h5>
+                                <div class="circle-to-square__container">
                                   <div class="circle-to-square">
                                      <div class="circle">
                                          <img src="img/admissions_icon.png" />
@@ -50,10 +76,12 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="w-100" src="img/c3.jpg" alt="Image">
+                        <img class="w-100 car-img" src="img/c3.jpeg" alt="Image" >
                         <div class="carousel-caption d-flex flex-column">
                             <div class="p-3" style="max-width: 700px;">
-                               <div class="circle-to-square__container">
+                                <h1 class="text-white animated slideInDown header_sec_text">A School that thinks and acts differently</h1>
+                                <h5 class="text-white animated slideInDown header_sec_text1">Bhashyam Blooms firmly believes that quality education leads to healthy society</h5>
+                                <div class="circle-to-square__container">
                                   <div class="circle-to-square">
                                      <div class="circle">
                                          <img src="img/admissions_icon.png" />
@@ -73,10 +101,12 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="w-100" src="img/c4.jpg" alt="Image">
+                        <img class="w-100 car-img" src="img/c4.jpeg" alt="Image" >
                         <div class="carousel-caption d-flex flex-column">
                             <div class="p-3" style="max-width: 700px;">
-                               <div class="circle-to-square__container">
+                                <h1 class="text-white animated slideInDown header_sec_text">A School that thinks and acts differently</h1>
+                                <h5 class="text-white animated slideInDown header_sec_text1">Bhashyam Blooms firmly believes that quality education leads to healthy society</h5>
+                                <div class="circle-to-square__container">
                                   <div class="circle-to-square">
                                      <div class="circle">
                                          <img src="img/admissions_icon.png" />
@@ -121,7 +151,7 @@
                                 <h2 class="mb-3">Our Students are our entire focus</h2>
                                 <p class="text-body mb-0">Each Child gets a frameworkfor success, a roadmapfor where they want to go and the right support at every stage of their development.</p>
                             </div>
-                            <div class="col-6" style="position: relative;z-index: 9999;left: -25px;top: 10vh;">
+                            <div class="col-6" style="position: relative;z-index: 9999;left: -25px;top: 6vh;">
                                     <div class="col-12">
                                         <div class="rounded sectton_2_href">
                                             <a href="cbse.php">
@@ -129,7 +159,7 @@
                                                 <div class="col-5">
                                                     <img class="img-fluid" data-wow-delay="0.5s" src="img/bb_pattern_1.png">
                                                 </div>
-                                                <div class="col-6">
+                                                <div class="col-6 sec_2_link">
                                                     <h4>
                                                         CBSE
                                                     </h4>
@@ -139,10 +169,10 @@
                                                     <p>Profound,pronounced and progressibe</p>
                                                     
                                                 </div>
-                                                <div class="col-1">
+                                                <div class="col-1 sec_2_arr">
                                                     
-                                                        <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
-                                                        <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png">
+                                                        <!-- <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
+                                                        <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png"> -->
                                                     
                                                 </div>
                                             </div>
@@ -158,7 +188,7 @@
                                                 <div class="col-5">
                                                     <img class="img-fluid" data-wow-delay="0.5s" src="img/bb_pattern_1.png">
                                                 </div>
-                                                <div class="col-6">
+                                                <div class="col-6 sec_2_link">
                                                     <h4>
                                                         State
                                                     </h4>
@@ -168,9 +198,9 @@
                                                     <p>Profound,pronounced and progressibe</p>
                                                     
                                                 </div>
-                                                <div class="col-1">
-                                                    <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
-                                                    <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png">
+                                                <div class="col-1 sec_2_arr">
+                                                    <!-- <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
+                                                    <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png"> -->
                                                 </div>
                                             </div>
                                             </a>
@@ -185,7 +215,7 @@
                                                 <div class="col-5">
                                                     <img class="img-fluid" data-wow-delay="0.5s" src="img/bb_pattern_1.png">
                                                 </div>
-                                                <div class="col-6">
+                                                <div class="col-6 sec_2_link">
                                                     <h4>
                                                         Olympiad
                                                     </h4>
@@ -195,9 +225,9 @@
                                                     <p>Profound,pronounced and progressibe</p>
                                                     
                                                 </div>
-                                                <div class="col-1">
-                                                    <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
-                                                    <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png">
+                                                <div class="col-1 sec_2_arr">
+                                                    <!-- <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
+                                                    <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png"> -->
                                                 </div>
                                             </div>
                                             </a>
@@ -212,7 +242,7 @@
                                                 <div class="col-5">
                                                     <img class="img-fluid" data-wow-delay="0.5s" src="img/bb_pattern_1.png">
                                                 </div>
-                                                <div class="col-6">
+                                                <div class="col-6 sec_2_link">
                                                     <h4>
                                                         IIT
                                                     </h4>
@@ -222,9 +252,9 @@
                                                     <p>Profound,pronounced and progressibe</p>
                                                     
                                                 </div>
-                                                <div class="col-1">
-                                                    <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
-                                                    <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png">
+                                                <div class="col-1 sec_2_arr">
+                                                    <!-- <img class="img-fluid arrow_circle_right" data-wow-delay="0.5s" src="img/arrow_circle_right.png" style="margin-top: 50px;">
+                                                    <img class="img-fluid arrow_circle_clicked" data-wow-delay="0.5s" src="img/arrow_circle_clicked.png"> -->
                                                 </div>
                                             </div>
                                             </a>
@@ -396,22 +426,16 @@
             
         </div>
         <!-- Service End -->
-
-
+        <div class="container-fluid testimonial1 wow zoomIn" data-wow-delay="0.1s">
+            <p>FEATURED STORIES<br>
+            WHAT'S HAPPENING AT BHASHYAM BLOOMS</p>
+        </div>
         <!-- Testimonial Start -->
         <div class="container-fluid testimonial wow zoomIn" data-wow-delay="0.1s">
-                <p>
-                    FEATURED STORIES
-                    <br>
-                    WHAT'S HAPPENING AT BHASHYAM BLOOMS
-                </p>
-                <div class="row g4">
-                <div class="col-lg-4 col-md-6" style="background:
-                      linear-gradient(
-                        rgba(0, 0, 0, 0.5),
-                        rgba(0, 0, 0, 0.5)
-                      ),url('img/sec_5_1.png');height: 100vh;">
-                     <div class="sub5">
+            <div class="owl-carousel owl-theme ">
+                <div>
+                    <img src="img/sec_5_1.png" alt="">
+                    <div class="sub5">
                          <p>
                             <h3>
                                 International Space<br>Exploration Challenge
@@ -419,13 +443,13 @@
                             <h6>
                                 Advice, guidance and practical help o create positive outcomesand healthy minds.
                             </h6>
-                            <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                            <i class="fas fa-greater-than"></i>
                             <span class="">Watch</span>
                         </p>
-                     </div>
+                    </div>
                 </div>
-                <div class="col-lg-4 col-md-6" style="background:
-                      url('img/sec_5_2.png');height: 100vh;">
+                <div>
+                    <img src="img/sec_5_2.png" alt="">
                     <div class="sub5">
                          <p>
                             <h3>
@@ -434,16 +458,14 @@
                             <h6>
                                 Bhashyam Schools is one of an elite group of schools which offers an ice hockey program.
                             </h6>
-                            <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                            <!-- <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt=""> -->
+                            <i class="fas fa-greater-than"></i>
                             <span class="">Watch</span>
                         </p>
                      </div>
                 </div>
-                <div class="col-lg-4 col-md-6" style="background:
-                      linear-gradient(
-                        rgba(0, 0, 0, 0.5),
-                        rgba(0, 0, 0, 0.5)
-                      ),url('img/sec_5_3.png');height: 100vh">
+                <div>
+                    <img src="img/sec_5_3.png" alt="">
                     <div class="sub5">
                          <p>
                             <h3>
@@ -452,16 +474,31 @@
                             <h6>
                                 Advice, guidance and practical help o create positive outcomesand healthy minds.
                             </h6>
-                            <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt="">
+                            <!-- <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt=""> -->
+                            <i class="fas fa-greater-than"></i>
                             <span class="">Watch</span>
                         </p>
                      </div>
                 </div>
+                <div>
+                    <img src="img/sec_5_2.png" alt="">
+                    <div class="sub5">
+                         <p>
+                            <h3>
+                                International Space<br>Exploration Challenge
+                            </h3>
+                            <h6>
+                                Advice, guidance and practical help o create positive outcomesand healthy minds.
+                            </h6>
+                            <!-- <img class="img-fluid section_3_img" src="img/section_3_right_arrow.png" alt=""> -->
+                            <i class="fas fa-greater-than"></i>
+                            <span class="">Watch</span>
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
         <!-- Testimonial End -->
-
-
         <!-- Team Start -->
         <!-- <div class="container-xxl py-5">
             <div class="container">
