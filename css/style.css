@@ -418,6 +418,7 @@
 .inquiry_section {
     background-color: #000C1E;
     padding: 30px;
+    border-radius: 10px;
 }
 
 .inquiry_section h3 {
@@ -428,6 +429,22 @@
     color: #FFFFFF;
     font-size: 20px;
 }
+
+.inquiry_section_form {
+    padding: 10px;
+    border-radius: 10px;
+}
+.inquiry_section_form form {
+    background-color: #ECEDED;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.inquiry_section_form form h3{
+    color: #59606C;
+}
+
+
 /*** Youtube Video ***/
 .video {
     position: relative;
@@ -1012,3 +1029,8 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 50px;
     font-weight: 800;
 }
+
+ul.list_image {
+    list-style-image: url('../img/strenth_Icon.svg');
+}
+

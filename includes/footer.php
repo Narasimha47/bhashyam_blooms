@@ -93,18 +93,7 @@
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
     <script type="text/javascript">
- //        $( document ).ready(function() {
- //            var owlCarouselActive = document.getElementsByClassName("owl-item active");
- //        var owlCarouselActiveCenter = document.getElementsByClassName("owl-item active center");
- // var first = owlCarouselActive[0]; //get first item
- // var last = owlCarouselActive[owlCarouselActive.length - 1]; //get last item
 
- // first.style.opacity = 0.5;
- 
- // // owlCarouselActive.style.opacity = 0.5;
- // owlCarouselActiveCenter[0].style.opacity = 1;
- // last.style.opacity = 0.5;
- //        });
         
     </script>
 </body>

@@ -24,8 +24,8 @@
         <!-- About Start -->
         <div class="container-fluid py-0">
             <div class="container">
-                <div class="row g-2">
-                    <div class="col-lg-8 inquiry_section">
+                <div class="row g-4">
+                    <div class="col-lg-7 inquiry_section">
                         <div class="left_section">
                             <h3>STAGE 1</h3>
                             <p>Submit the online Enquiry Form from this website or visit the school.</p>
@@ -40,13 +40,15 @@
                             <p>Student Registration & Payment of fees (to be done within 7 working days from test result)</p>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-5 inquiry_section_form">
                         <div class="wow fadeInUp" data-wow-delay="0.2s">
                             <form>
-                                <div class="row g-3">
+                                <div class="row g-2">
+                                    <h3>Fill the Online Enquiry Form</h3>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
+                                            <select class="form-control" id="select_board" placeholder="Select Board" required="true">
+                                                <option value=""></option>
                                                 <option value="1">CBSE</option>
                                                 <option value="1">State</option>
                                                 <option value="1">Colleges</option>
@@ -56,93 +58,97 @@
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
+                                            <select class="form-control" id="select_board" placeholder="Select Board" required="true">
                                                 <option value="1">CBSE</option>
                                                 <option value="1">State</option>
                                                 <option value="1">Colleges</option>
                                             </select>
-                                            <label for="name">Select Board</label>
+                                            <label for="name">Select State</label>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
+                                            <select class="form-control" id="select_board" placeholder="Select Board" required="true">
                                                 <option value="1">CBSE</option>
                                                 <option value="1">State</option>
                                                 <option value="1">Colleges</option>
                                             </select>
-                                            <label for="name">Select Board</label>
+                                            <label for="name">Select City</label>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
+                                            <select class="form-control" id="select_board" placeholder="Select Board" required="true">
                                                 <option value="1">CBSE</option>
                                                 <option value="1">State</option>
                                                 <option value="1">Colleges</option>
                                             </select>
-                                            <label for="name">Select Board</label>
+                                            <label for="name">Select Branch</label>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
+                                            <select class="form-control" id="select_board" placeholder="Select Board" required="true">
                                                 <option value="1">CBSE</option>
                                                 <option value="1">State</option>
                                                 <option value="1">Colleges</option>
                                             </select>
-                                            <label for="name">Select Board</label>
+                                            <label for="name">Select Class</label>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
-                                                <option value="1">CBSE</option>
-                                                <option value="1">State</option>
-                                                <option value="1">Colleges</option>
-                                            </select>
-                                            <label for="name">Select Board</label>
+                                            <input type="text" name="first_name" class="form-control" placeholder="Enter First Name" required="true">
+                                            <label for="name">First Name</label>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
-                                                <option value="1">CBSE</option>
-                                                <option value="1">State</option>
-                                                <option value="1">Colleges</option>
-                                            </select>
-                                            <label for="name">Select Board</label>
+                                            <input type="text" name="last_name" class="form-control" placeholder="Enter Last Name" required="true">
+                                            <label for="name">Last Name</label>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
+                                            <select class="form-control" id="select_board" placeholder="Select Board" required="true">
                                                 <option value="1">CBSE</option>
                                                 <option value="1">State</option>
                                                 <option value="1">Colleges</option>
                                             </select>
-                                            <label for="name">Select Board</label>
+                                            <label for="name">Select Gender</label>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-floating">
-                                            <select class="form-control" id="select_board" placeholder="Select Board">
+                                            <input type="text" name="mobile_number" class="form-control" placeholder="Enter Mobile Number" required="true">
+                                            <label for="name">Mobile</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-floating">
+                                            <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 150px"></textarea>
+                                            <label for="message">Message</label>
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-floating">
+                                            <select class="form-control" id="select_board" placeholder="Select Board" required="true">
                                                 <option value="1">CBSE</option>
                                                 <option value="1">State</option>
                                                 <option value="1">Colleges</option>
                                             </select>
-                                            <label for="name">Select Board</label>
+                                            <label for="name">Referred By</label>
                                         </div>
                                     </div>
                                     <div class="col-12">
-                                        <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
+                                        <button class="btn btn-danger w-100 py-3" type="submit">Send Message</button>
                                     </div>
                                 </div>
                             </form>
                         </div>
                     </div>
                 </div>
-                
             </div>
         </div>
         <!-- About End -->

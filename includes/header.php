@@ -161,9 +161,9 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                                             <div class="col-12 col-sm-12 col-md-4 py-4">
                                               <div class="list-group">
                                                 <a href="enquiry.php" class="nav-link megamenu-submenu">Admission Process</a>
-                                                <a href="enquiry.php" class="nav-link megamenu-submenu">Application Form</a>
+                                                <!-- <a href="enquiry.php" class="nav-link megamenu-submenu">Application Form</a>
                                                 <a href="#" class="nav-link megamenu-submenu">Public Disclosure</a>
-                                                <a href="#" class="nav-link megamenu-submenu">FAQ's</a>
+                                                <a href="#" class="nav-link megamenu-submenu">FAQ's</a> -->
                                               </div>
                                             </div>
                                             <div class="col-12 col-sm-4 col-md-4 py-4">
@@ -218,9 +218,9 @@ $mImage = '<img src="img/nav_image.png" class="img-fluid" alt="image">';
                                             </div>
                                             <div class="col-12 col-sm-12 col-md-4 py-4">
                                               <div class="list-group">
-                                                <a href="#" class="nav-link megamenu-submenu">Exam Schedules</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Sports</a>
-                                                <a href="#" class="nav-link megamenu-submenu">Activities</a>
+                                                <a href="exam_schedule.php" class="nav-link megamenu-submenu">Exam Schedules</a>
+                                                <a href="sports.php" class="nav-link megamenu-submenu">Sports</a>
+                                                <a href="activities.php" class="nav-link megamenu-submenu">Activities</a>
                                                 <a href="#" class="nav-link megamenu-submenu">Competition Records</a>
                                               </div>
                                             </div>

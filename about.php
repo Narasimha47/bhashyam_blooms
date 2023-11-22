@@ -29,7 +29,7 @@
                         <h1 class="mb-4"><span class="about-primary text-uppercase">Strength</span></h1>
                         <h5 class="mb-4">To get the very best from our young people we aim at</h5>
                         
-                        <ul class="">
+                        <ul class="list_image">
                             <li>
                                 Planning and managing resources with optimum utility.
                             </li>
